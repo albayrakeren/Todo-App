@@ -28,6 +28,7 @@ setItems(newArray);
 return (
   <div className="App">
     <h1>Todo List app</h1>
+    <h1>Todo List app2</h1>
 
 
     <input 
